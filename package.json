@@ -1,0 +1,19 @@
+{
+  "name": "jnino-test",
+  "version": "0.0.13",
+  "description": "jnino-test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "Hola": "echo \"Hola Mundo\" && exit 1"
+  },
+  "bin": {
+    "jnino-test": "bin/public.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "license": "ISC",
+  "dependencies": {
+    "npmlog": "^4.1.2"
+  }
+}
